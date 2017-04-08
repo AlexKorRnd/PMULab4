@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PMULab4</string>
+    <string name="cart.books.count">Кол-во книг: %1$s</string>
+    <string name="cart.books.price">Общая стоимость: %1$s</string>
+    <string name="cart.action.remove">Удалить из корзины</string>
+    <string name="cart.action.add">Добавить в корзину</string>
+    <string name="navigate_to_cart">Перейти в корзину</string>
+</resources>
